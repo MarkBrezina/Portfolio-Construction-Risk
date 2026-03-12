@@ -23,4 +23,51 @@
 Covariance/risk models (EWMA/shrinkage), vol targeting, factor exposures, VaR/CVaR, stress & scenario analysis, leverage/liquidity/concentration constraints.
 mean-variance optimisation , concentration, covariance, cvar, var optimisation
 
+# Systematic Portfolio Construction
 
+This repository explores methods for constructing diversified portfolios
+from multiple assets or trading strategies.
+
+The goal of portfolio construction is to combine investments in a way that
+maximizes expected return while controlling risk.
+
+Key topics explored include:
+
+• Risk models  
+• Portfolio optimization  
+• Strategy allocation  
+• Dynamic portfolio rebalancing  
+
+The project implements several classical and modern approaches to portfolio
+construction and compares their performance.
+
+---
+
+# Methods Implemented
+
+Mean–Variance Optimization  
+Risk Parity  
+Minimum Variance Portfolio  
+Maximum Diversification Portfolio  
+Volatility Targeting  
+Strategy Allocation
+
+---
+
+# Example Results
+
+Experiments demonstrate:
+
+• diversification effects  
+• volatility stabilization  
+• differences between allocation methods  
+• behavior during market stress
+
+---
+
+# Repository Structure
+
+docs → theory and notes  \
+notebooks → experiments  \
+src → reusable portfolio framework  \
+results → figures and outputs
