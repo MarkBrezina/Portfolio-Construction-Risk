@@ -1,7 +1,5 @@
 # Portfolio optimisation
 
-**661 different stocks. Run from 9/2/2026 to 6/4/2025, running for 8 weeks.**
-
 ## Piece 1 - Background research.
 1. Analyse historical data for companies with high average returns and low risk
 2. Analyse companies with good budgets and likely good chance for high returns
@@ -17,8 +15,6 @@
 1. Capital allocation adjusting for likelihood of returns
 2. 25% set aside for event based plays.
 3. Analysis of likelihoods of outcome, ...
-
-
 
 Covariance/risk models (EWMA/shrinkage), vol targeting, factor exposures, VaR/CVaR, stress & scenario analysis, leverage/liquidity/concentration constraints.
 mean-variance optimisation , concentration, covariance, cvar, var optimisation
